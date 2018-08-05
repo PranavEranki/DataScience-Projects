@@ -1,8 +1,6 @@
 # What is this
 
-This is a folder containing a collection of all ML Scripts and Projects which I have completed.
-
-This will be updated as necessary.
+This is a folder containing a collection of all ML Scripts and Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary.
 
 # Projects
 

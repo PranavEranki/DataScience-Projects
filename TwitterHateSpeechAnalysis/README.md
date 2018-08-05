@@ -1,13 +1,14 @@
 ## Twitter Hate Speech Detector
 
-Problem from Analytics Vidhya which takes tweets and detects if they are, or employ, hate speech. 
+Problem from Analytics Vidhya which takes tweets and detects if they are, or employ, hate speech.
 
 Problem link - https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
 
+Here is the [link](https://github.com/PranavEranki/ML-Scripts/blob/master/TwitterHateSpeechAnalysis/log.md) for my log which contains my progress with notes
 <hr/>
 
 ### Reason
-I wanted to get more machine learning experience, so I tried this problem from AnalyticsVidhya. 
+I wanted to get more machine learning experience, so I tried this problem from AnalyticsVidhya.
 It is more complex than previous problems I have attempted, so I am excited to see how I do.
 I have also never attempted many NLP problems, so this would be a nice change from the standard classification problems I attempt.
 
