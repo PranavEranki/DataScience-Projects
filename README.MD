@@ -1,6 +1,8 @@
 # What is this
 
-This is a folder containing a collection of all ML Scripts and Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary.
+This is a folder containing a collection of all ML Scripts and Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary. 
+
+It also will contain some folders for learning different modules - for example, the learning CV2 folder. These are not projects, but simply directories containing some learning files and imgs.
 
 # Projects
 
