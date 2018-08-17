@@ -12,6 +12,7 @@ It also will contain some folders for learning different modules - for example, 
 
 [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) - self practice problem for using some EDA skills I learned.
 
+[Titanic Mini Project] which I attempted using a subset of the titanic dataset and some new skills I developed.
 
 # Timeline
 
@@ -20,3 +21,5 @@ It also will contain some folders for learning different modules - for example, 
 * Twitter Hate Speech Analysis and Classification - July 2018
 
 * Stock Market EDA - August 2018
+
+* Titanic Mini Project - August 2018 
