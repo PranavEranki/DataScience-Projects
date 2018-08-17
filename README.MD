@@ -6,11 +6,11 @@ It also will contain some folders for learning different modules - for example, 
 
 # Projects
 
-[Predicting Blood Donations project](https://github.com/PranavEranki/ML-Scripts/tree/master/PredictingBloodDonations) from Driven Data.
+[Predicting Blood Donations project](https://github.com/PranavEranki/ML-Scripts/tree/master/PredictingBloodDonations) - classification problem from Driven Data.
 
-[Twitter Hate Speech Analysis](https://github.com/PranavEranki/ML-Scripts/tree/master/TwitterHateSpeechAnalysis) problem from Analytics Vidhya
+[Twitter Hate Speech Analysis](https://github.com/PranavEranki/ML-Scripts/tree/master/TwitterHateSpeechAnalysis) - NLP sentiment analysis problem from Analytics Vidhya.
 
-[Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) - a self practice problem for using some new EDA skills I have gathered.
+[Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) - self practice problem for using some EDA skills I learned.
 
 
 # Timeline
