@@ -10,8 +10,13 @@ It also will contain some folders for learning different modules - for example, 
 
 [Twitter Hate Speech Analysis](https://github.com/PranavEranki/ML-Scripts/tree/master/TwitterHateSpeechAnalysis) problem from Analytics Vidhya
 
+[Stock Market Data Analysis]() - a self practice problem for using some new EDA skills I have gathered.
+
+
 # Timeline
 
 * Predicting Blood donations - June 2018
 
 * Twitter Hate Speech Analysis and Classification - July 2018
+
+* Stock Market EDA - August 2018
