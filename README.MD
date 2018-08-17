@@ -12,7 +12,7 @@ It also will contain some folders for learning different modules - for example, 
 
 [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) - self practice problem for using some EDA skills I learned.
 
-[Titanic Mini Project] which I attempted using a subset of the titanic dataset and some new skills I developed.
+[Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
 
 # Timeline
 
