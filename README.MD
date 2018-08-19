@@ -14,7 +14,7 @@ It also contains the learning CV2 folder. These are not projects, but a collecti
 
 [Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
 
-[Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. I think I did a good job here documenting, displaying, and explaining my process and results.
+[Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. One of my best documented and displayed project.
 
 [California House Price Prediction]() - this is a simple linear regression problem I attempted to try and learn some new topics.
 
