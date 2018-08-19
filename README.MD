@@ -1,6 +1,6 @@
 # What is this
 
-This is a folder containing a collection of some of the simpler ML Scripts/ Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary. 
+This is a folder containing a collection of some of the simpler ML Scripts/ Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary.
 
 It also contains the learning CV2 folder. These are not projects, but a collection of scripts I used for learning the module. Still, almost all of the scripts are project themed and can be downloaded and used.
 
@@ -14,6 +14,8 @@ It also contains the learning CV2 folder. These are not projects, but a collecti
 
 [Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
 
+[Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. The dataset is simple, but I think I did a good job here documenting, displaying, and explaining my process and results.
+
 # Timeline
 
 * Predicting Blood donations - June 2018
@@ -22,4 +24,6 @@ It also contains the learning CV2 folder. These are not projects, but a collecti
 
 * Stock Market EDA - August 2018
 
-* Titanic Mini Project - August 2018 
+* Titanic Mini Project - August 2018
+
+* Simple SMS Spam detection - August 2018
