@@ -4,10 +4,13 @@ This is a folder containing a collection of some of the simpler ML Scripts/ Proj
 
 It also contains the learning CV2 folder. These are not projects, but a collection of scripts I used for learning the module. Still, almost all of the scripts are project themed and can be downloaded and used.
 
+
 ## Current highlight
 
 I like to highlight my top few projects here:
-* Simple SMS Spam Detection, for the documentation, logging, and overall easy interpretability of the code.
+* [SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) for the documentation, logging, and overall easy interpretability of the code.
+* [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) for the high end EDA and analysis of the Quandl data, using matplotlib and seaborn.
+
 
 # Projects
 
