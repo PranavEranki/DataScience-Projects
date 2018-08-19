@@ -16,6 +16,8 @@ It also contains the learning CV2 folder. These are not projects, but a collecti
 
 [Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. The dataset is simple, but I think I did a good job here documenting, displaying, and explaining my process and results.
 
+[California House Price Prediction]() - this is a simple linear regression problem I attempted to try and learn some new topics.
+
 # Timeline
 
 * Predicting Blood donations - June 2018
@@ -27,3 +29,5 @@ It also contains the learning CV2 folder. These are not projects, but a collecti
 * Titanic Mini Project - August 2018
 
 * Simple SMS Spam detection - August 2018
+
+* California House Price Prediction - August 2018
