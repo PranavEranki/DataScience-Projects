@@ -21,7 +21,7 @@ I like to highlight my top few projects here:
 
 [Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. One of my best documented and displayed project.
 
-[California House Price Prediction]() - this is a simple linear regression problem I attempted to try and learn some new topics.
+[California House Price Prediction](https://github.com/PranavEranki/ML-Projects/tree/master/California%20Housing%20Price%20Prediction) - this is a simple linear regression problem I attempted to try and learn some new topics.
 
 # Timeline
 
