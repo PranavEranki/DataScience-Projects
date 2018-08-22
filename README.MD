@@ -19,13 +19,6 @@ I like to highlight my top few projects here:
 [Twitter Hate Speech Analysis](https://github.com/PranavEranki/ML-Scripts/tree/master/TwitterHateSpeechAnalysis) - NLP sentiment analysis problem from Analytics Vidhya.
 
 [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) - self practice problem for using some EDA skills I learned.
-<<<<<<< HEAD
-
-[Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
-
-[Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. One of my best documented and displayed project.
-
-[California House Price Prediction](https://github.com/PranavEranki/ML-Projects/tree/master/California%20Housing%20Price%20Prediction) - this is a simple linear regression problem I attempted to try and learn some new topics.
 
 [Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
 
