@@ -19,6 +19,7 @@ I like to highlight my top few projects here:
 [Twitter Hate Speech Analysis](https://github.com/PranavEranki/ML-Scripts/tree/master/TwitterHateSpeechAnalysis) - NLP sentiment analysis problem from Analytics Vidhya.
 
 [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) - self practice problem for using some EDA skills I learned.
+<<<<<<< HEAD
 
 [Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
 
@@ -27,6 +28,14 @@ I like to highlight my top few projects here:
 [California House Price Prediction](https://github.com/PranavEranki/ML-Projects/tree/master/California%20Housing%20Price%20Prediction) - this is a simple linear regression problem I attempted to try and learn some new topics.
 
 [NYC 311 Basic Analysis] - this is a project which I did to practice some more EDA on NLP datasets - namely the NYC 311 dataset.
+=======
+
+[Titanic Mini Project](https://github.com/PranavEranki/ML-Projects/tree/master/TitanicMiniProject) which I attempted using a subset of the titanic dataset and some new skills I developed.
+
+[Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. One of my best documented and displayed project.
+
+[California House Price Prediction](https://github.com/PranavEranki/ML-Projects/tree/master/California%20Housing%20Price%20Prediction) - this is a simple linear regression problem I attempted to try and learn some new topics.
+>>>>>>> 1869d1b2f087cf25b0b7df0d899ea335e2649776
 
 # Timeline
 
@@ -41,5 +50,8 @@ I like to highlight my top few projects here:
 * Simple SMS Spam detection - August 2018
 
 * California House Price Prediction - August 2018
+<<<<<<< HEAD
 
 * NYC 311 Basic Analysis - August 2018
+=======
+>>>>>>> 1869d1b2f087cf25b0b7df0d899ea335e2649776
