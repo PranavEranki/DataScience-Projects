@@ -26,6 +26,8 @@ I like to highlight my top few projects here:
 
 [California House Price Prediction](https://github.com/PranavEranki/ML-Projects/tree/master/California%20Housing%20Price%20Prediction) - this is a simple linear regression problem I attempted to try and learn some new topics.
 
+[NYC 311 Basic Analysis] - this is a project which I did to practice some more EDA on NLP datasets - namely the NYC 311 dataset.
+
 # Timeline
 
 * Predicting Blood donations - June 2018
@@ -39,3 +41,5 @@ I like to highlight my top few projects here:
 * Simple SMS Spam detection - August 2018
 
 * California House Price Prediction - August 2018
+
+* NYC 311 Basic Analysis - August 2018
