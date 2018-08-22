@@ -35,7 +35,8 @@ I like to highlight my top few projects here:
 [Simple SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) is a problem I attempted. One of my best documented and displayed project.
 
 [California House Price Prediction](https://github.com/PranavEranki/ML-Projects/tree/master/California%20Housing%20Price%20Prediction) - this is a simple linear regression problem I attempted to try and learn some new topics.
->>>>>>> 1869d1b2f087cf25b0b7df0d899ea335e2649776
+
+[NYC 311 Basic Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/NYC311BasicAnalysis) - this is a simple EDA project on the NYC 311 dataset.
 
 # Timeline
 
@@ -50,8 +51,5 @@ I like to highlight my top few projects here:
 * Simple SMS Spam detection - August 2018
 
 * California House Price Prediction - August 2018
-<<<<<<< HEAD
 
 * NYC 311 Basic Analysis - August 2018
-=======
->>>>>>> 1869d1b2f087cf25b0b7df0d899ea335e2649776
