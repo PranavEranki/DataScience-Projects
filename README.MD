@@ -9,7 +9,7 @@ It also contains the learning CV2 folder. These are not projects, but a collecti
 
 I like to highlight my top few projects here:
 * [SMS Spam Detection](https://github.com/PranavEranki/ML-Projects/tree/master/SimpleSpamCollectionSMS) for the documentation, logging, and overall easy interpretability of the code.
-* [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) for the high end EDA and analysis of the Quandl data, using matplotlib and seaborn.
+* [Stock Market Data Analysis](https://github.com/PranavEranki/ML-Projects/tree/master/StockMarketDataAnalysisSimple) for the high end EDA and analysis of the Quandl data using matplotlib and seaborn.
 
 
 # Projects
