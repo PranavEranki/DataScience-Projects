@@ -1,6 +1,6 @@
 # What is this
 
-This is a folder containing a collection of ML Scripts/ Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary.
+This is a folder containing a collection of Data Scripts/ Projects which I have completed. Each project has its own documentation and code, with datasets provided as necessary.
 
 __Note : Really high quality projects that would normally fall under this category are instead displayed in a separate repository on my github.__
 
